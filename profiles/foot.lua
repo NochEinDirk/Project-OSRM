@@ -31,6 +31,7 @@ speeds = {
   ["pedestrian"] = walking_speed,
   ["footway"] = walking_speed,
   ["pier"] = walking_speed,
+  ["bridleway"] = walking_speed,
   ["default"] = walking_speed
 }
 
